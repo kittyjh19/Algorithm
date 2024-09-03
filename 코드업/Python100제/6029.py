@@ -1,3 +1,3 @@
 a = input()
-n = int(a, 16)      
-print('%o' % n)
+b = int(a, 16)      
+print('%o'%b)
