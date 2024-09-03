@@ -1,3 +1,3 @@
-a=input()
-a=int(a)
-print("%X"%a)
+a = input()
+b = int(a)
+print('%X'%a)
